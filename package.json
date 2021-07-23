@@ -22,7 +22,7 @@
     "lodash.mapkeys": "^4.6.0",
     "lodash.pick": "^4.4.0",
     "lodash.pickby": "^4.6.0",
-    "papaparse": "^5.3.0",
+    "papaparse": "^5.3.1",
     "vue": "^2.6.12"
   },
   "devDependencies": {
